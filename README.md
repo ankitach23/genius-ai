@@ -26,7 +26,7 @@ Features:
 ### Cloning the repository
 
 ``` shell
-git clone https://github.com/inishantxchandel/genius.git
+git clone https://github.com/ankitach23/genius-ai.git
 ```
 
 ### Install packages
